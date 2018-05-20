@@ -8,4 +8,4 @@ pandas,
 sklearn,
 matplotlib.
 
-the code programs has both programs from scratch and using sklearn 
+the code provided has both programs from scratch and using sklearn 
